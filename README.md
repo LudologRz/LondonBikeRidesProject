@@ -37,6 +37,7 @@ This project analyzes bike ride patterns in London, exploring how **weather cond
 
 ## Tools & Technologies
 - **Tableau** - Data visualization and interactive dashboard creation, built-in aggregations used
+- **Python** - Extracting data and putting appropriate labels
 
 ## How to Use
 1. Open the Tableau dashboard (`London_Bike_Rides.twbx`).  
