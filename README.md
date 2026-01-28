@@ -1,4 +1,3 @@
-![Dashboard Preview](Icons and Images/tabpublic_Hlt54fLysI.jpg) 
 # London Bike Rides Analysis
 
 ## Project Overview
